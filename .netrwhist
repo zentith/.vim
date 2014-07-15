@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/private/etc'
+let g:netrw_dirhist_2='/Users/zhoutao/Documents/python练习/scada_tools'
+let g:netrw_dirhist_3='/Library'
+let g:netrw_dirhist_4='/Users/zhoutao/.vim'
